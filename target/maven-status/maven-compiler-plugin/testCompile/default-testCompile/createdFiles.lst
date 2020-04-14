@@ -1,0 +1,7 @@
+aRunnerClass/RunCukesTest.class
+nmktDomain/TestUser.class
+nmktpages/MasterPage.class
+nmktpages/LoginPage.class
+nmktpages/HomePage.class
+nmktpages/FriendsPage.class
+nmktstepsdefination/login_steps.class
